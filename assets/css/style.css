@@ -58,3 +58,25 @@ form{
     display:inline-block;
 	float:right;
 }
+
+.btnEdit{
+	background-color:purple;
+    font-size:20px;
+    padding:5px;
+    font-style:bold;
+    border-radius:5px;
+    color:white;
+    display:inline-block;
+	float:right;
+}
+
+.btnSave{
+    background-color:yellow;
+    font-size:20px;
+    padding:5px;
+    font-style:bold;
+    border-radius:5px;
+    color:black;
+    display:inline-block;
+	float:right;
+}
